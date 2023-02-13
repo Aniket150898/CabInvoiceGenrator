@@ -102,6 +102,10 @@ namespace CabInVoiceGenerator
             }
         }
 
+        public void AddRides(string userId, Ride[] rides)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }
