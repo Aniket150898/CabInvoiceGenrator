@@ -1,0 +1,15 @@
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\bin\Debug\net6.0\CabInVoiceGenerator.exe
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\bin\Debug\net6.0\CabInVoiceGenerator.deps.json
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\bin\Debug\net6.0\CabInVoiceGenerator.runtimeconfig.json
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\bin\Debug\net6.0\CabInVoiceGenerator.dll
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\bin\Debug\net6.0\CabInVoiceGenerator.pdb
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\CabInVoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\CabInVoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\CabInVoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\CabInVoiceGenerator.AssemblyInfo.cs
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\CabInVoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\CabInVoiceGenerator.dll
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\refint\CabInVoiceGenerator.dll
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\CabInVoiceGenerator.pdb
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\CabInVoiceGenerator.genruntimeconfig.cache
+C:\Users\Aniket\Desktop\Cab\CabInVoiceGenerator\obj\Debug\net6.0\ref\CabInVoiceGenerator.dll
